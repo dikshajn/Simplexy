@@ -11,10 +11,6 @@
         }
         h1 {
             font-weight: bold;
-            text-align: center;
-        }
-        p {
-            text-align: center;
         }
     </style>
 </head>
