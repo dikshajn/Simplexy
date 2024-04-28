@@ -7,7 +7,7 @@
 ```
 git clone https://github.com/ChampSim/ChampSim.git
 ```
-![Uploading image.png…]()
+<img src="capture.jpg" alt="Example Image">
 
 # Compile
 
